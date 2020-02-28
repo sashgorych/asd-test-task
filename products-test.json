@@ -1,9 +1,9 @@
 [
 {
-"id": "1",
-"name": "Ноутбук Apple MacBook Pro ",
-"image": "https://mta.ua/image/cache/data/foto/z148/148147/photos/Apple-MacBook-Pro-(MV922UAA)-2019-Silver-01-228x228.jpg",
-"price": "4000"
+  "id": "1",
+  "name": "Ноутбук Apple MacBook Pro ",
+  "image": "https://mta.ua/image/cache/data/foto/z148/148147/photos/Apple-MacBook-Pro-(MV922UAA)-2019-Silver-01-228x228.jpg",
+  "price": "4000"
 },
 {
 "id": "2",
@@ -40,5 +40,4 @@
 "name": "Ноутбук Acer Swift34",
 "image": "https://mta.ua/image/cache/data/foto/z189/189147/photos/Acer-Swift-1-SF114-32-P16P-(NX.GZLEU.012)-Sakura-Pink-01-228x228.jpg",
 "price": "200"
-}
-]
+}]
