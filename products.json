@@ -1,44 +1,44 @@
 [
 {
-id: "1",
-name: "Ноутбук Apple MacBook Pro ",
-image: "https://mta.ua/image/cache/data/foto/z148/148147/photos/Apple-MacBook-Pro-(MV922UAA)-2019-Silver-01-228x228.jpg",
-price: "4000"
+"id": "1",
+"name": "Ноутбук Apple MacBook Pro ",
+"image": "https://mta.ua/image/cache/data/foto/z148/148147/photos/Apple-MacBook-Pro-(MV922UAA)-2019-Silver-01-228x228.jpg",
+"price": "4000"
 },
 {
-id: "2",
-name: "Смартфон Samsung Galaxy A307F",
-image: "https://mta.ua/image/cache/data/foto/z180/180707/photos/SM-A515FZBWSEK-01-228x228.jpg",
-price: "200"
+"id": "2",
+"name": "Смартфон Samsung Galaxy A307F",
+"image": "https://mta.ua/image/cache/data/foto/z180/180707/photos/SM-A515FZBWSEK-01-228x228.jpg",
+"price": "200"
 },
 {
-id: "3",
-name: "Смартфон Samsung Galaxy A207F A20S",
-image: "https://mta.ua/image/cache/data/foto/z162/162178/photos/Samsung-Galaxy-A207F-A20S-01-228x228.jpg",
-price: "240"
+"id": "3",
+"name": "Смартфон Samsung Galaxy A207F A20S",
+"image": "https://mta.ua/image/cache/data/foto/z162/162178/photos/Samsung-Galaxy-A207F-A20S-01-228x228.jpg",
+"price": "240"
 },
 {
-id: "4",
-name: "Ноутбук Acer Aspire 5 A515-51G",
-image: "https://mta.ua/image/cache/data/foto/z117/117306/photos/Acer-Aspire-5-A515-51G-(NX.GWHEU.047)-01-228x228.jpg",
-price: "400"
+"id": "4",
+"name": "Ноутбук Acer Aspire 5 A515-51G",
+"image": "https://mta.ua/image/cache/data/foto/z117/117306/photos/Acer-Aspire-5-A515-51G-(NX.GWHEU.047)-01-228x228.jpg",
+"price": "400"
 },
 {
-id: "5",
-name: "Ноутбук Acer Aspire ",
-image: "https://mta.ua/image/cache/data/foto/z125/125002/photos/Acer-Aspire-1-A114-32-P4AX-(NX.GW9EU.006)-01-228x228.jpg",
-price: "200"
+"id": "5",
+"name": "Ноутбук Acer Aspire ",
+"image": "https://mta.ua/image/cache/data/foto/z125/125002/photos/Acer-Aspire-1-A114-32-P4AX-(NX.GW9EU.006)-01-228x228.jpg",
+"price": "200"
 },
 {
-id: "6",
-name: "Ноутбук Acer Swift ",
-image: "https://mta.ua/image/cache/data/foto/z147/147481/photos/Acer-Swift-7-SF714-52T-(NX.H98EU.002)-Black-01-228x228.jpg",
-price: "2000"
+"id": "6",
+"name": "Ноутбук Acer Swift ",
+"image": "https://mta.ua/image/cache/data/foto/z147/147481/photos/Acer-Swift-7-SF714-52T-(NX.H98EU.002)-Black-01-228x228.jpg",
+"price": "2000"
 },
 {
-id: "7",
-name: "Ноутбук Acer Swift34",
-image: "https://mta.ua/image/cache/data/foto/z189/189147/photos/Acer-Swift-1-SF114-32-P16P-(NX.GZLEU.012)-Sakura-Pink-01-228x228.jpg",
-price: "200"
+"id": "7",
+"name": "Ноутбук Acer Swift34",
+"image": "https://mta.ua/image/cache/data/foto/z189/189147/photos/Acer-Swift-1-SF114-32-P16P-(NX.GZLEU.012)-Sakura-Pink-01-228x228.jpg",
+"price": "200"
 }
 ]
